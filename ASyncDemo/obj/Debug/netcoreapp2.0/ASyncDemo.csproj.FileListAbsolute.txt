@@ -1,0 +1,11 @@
+D:\Documents\VS 2017\SoftUni\Web Basics\ASyncDemo\ASyncDemo\bin\Debug\netcoreapp2.0\ASyncDemo.deps.json
+D:\Documents\VS 2017\SoftUni\Web Basics\ASyncDemo\ASyncDemo\bin\Debug\netcoreapp2.0\ASyncDemo.runtimeconfig.json
+D:\Documents\VS 2017\SoftUni\Web Basics\ASyncDemo\ASyncDemo\bin\Debug\netcoreapp2.0\ASyncDemo.runtimeconfig.dev.json
+D:\Documents\VS 2017\SoftUni\Web Basics\ASyncDemo\ASyncDemo\bin\Debug\netcoreapp2.0\ASyncDemo.dll
+D:\Documents\VS 2017\SoftUni\Web Basics\ASyncDemo\ASyncDemo\bin\Debug\netcoreapp2.0\ASyncDemo.pdb
+D:\Documents\VS 2017\SoftUni\Web Basics\ASyncDemo\ASyncDemo\obj\Debug\netcoreapp2.0\ASyncDemo.csprojResolveAssemblyReference.cache
+D:\Documents\VS 2017\SoftUni\Web Basics\ASyncDemo\ASyncDemo\obj\Debug\netcoreapp2.0\ASyncDemo.csproj.CoreCompileInputs.cache
+D:\Documents\VS 2017\SoftUni\Web Basics\ASyncDemo\ASyncDemo\obj\Debug\netcoreapp2.0\ASyncDemo.AssemblyInfoInputs.cache
+D:\Documents\VS 2017\SoftUni\Web Basics\ASyncDemo\ASyncDemo\obj\Debug\netcoreapp2.0\ASyncDemo.AssemblyInfo.cs
+D:\Documents\VS 2017\SoftUni\Web Basics\ASyncDemo\ASyncDemo\obj\Debug\netcoreapp2.0\ASyncDemo.dll
+D:\Documents\VS 2017\SoftUni\Web Basics\ASyncDemo\ASyncDemo\obj\Debug\netcoreapp2.0\ASyncDemo.pdb
